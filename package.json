@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/showgoodsllc/icon-pack.git"
+    "url": "git+https://github.com/showgoodsllc/icons.git"
   },
   "devDependencies": {
     "svgo": "^2.8.0",
