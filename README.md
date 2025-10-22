@@ -1,26 +1,17 @@
-# CodeX Icons
-
-Dozens of cute icons made with love by CodeX for your projects.
-
-No dependencies required. Free to use and share.
-
-<img width="1657" alt="image" src="https://user-images.githubusercontent.com/3684889/210104174-93ee88d6-a2ba-44a8-ac22-ee04955c771b.png">
-
-
 ## Usage
 
 Install the package with node package manager.
 
 ```sh
-npm install @codexteam/icons
+npm install @showgoods/icons
 
-yarn add @codexteam/icons
+yarn add @showgoods/icons
 ```
 
 And import required icons.
 
 ```js
-import { IconH1 } from '@codexteam/icons';
+import { IconH1 } from '@showgoods/icons';
 
 console.log(IconH1);
 ```
@@ -69,16 +60,13 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconEtcHorisontal](dist/icons/IconEtcHorisontal.svg) | `IconEtcHorisontal` |
 | ![IconEtcVertical](dist/icons/IconEtcVertical.svg) | `IconEtcVertical` |
 | ![IconFile](dist/icons/IconFile.svg) | `IconFile` |
-| ![IconGift](dist/icons/IconGift.svg) | `IconGift` |
 | ![IconGlobe](dist/icons/IconGlobe.svg) | `IconGlobe` |
 | ![IconHeading](dist/icons/IconHeading.svg) | `IconHeading` |
 | ![IconHeart](dist/icons/IconHeart.svg) | `IconHeart` |
 | ![IconHidden](dist/icons/IconHidden.svg) | `IconHidden` |
 | ![IconHtml](dist/icons/IconHtml.svg) | `IconHtml` |
-| ![IconInstagram](dist/icons/IconInstagram.svg) | `IconInstagram` |
 | ![IconItalic](dist/icons/IconItalic.svg) | `IconItalic` |
 | ![IconLink](dist/icons/IconLink.svg) | `IconLink` |
-| ![IconLinkedin](dist/icons/IconLinkedin.svg) | `IconLinkedin` |
 | ![IconListBulleted](dist/icons/IconListBulleted.svg) | `IconListBulleted` |
 | ![IconListNumbered](dist/icons/IconListNumbered.svg) | `IconListNumbered` |
 | ![IconLoader](dist/icons/IconLoader.svg) | `IconLoader` |
@@ -95,7 +83,6 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconReplace](dist/icons/IconReplace.svg) | `IconReplace` |
 | ![IconSave](dist/icons/IconSave.svg) | `IconSave` |
 | ![IconSearch](dist/icons/IconSearch.svg) | `IconSearch` |
-| ![IconStar](dist/icons/IconStar.svg) | `IconStar` |
 | ![IconStretch](dist/icons/IconStretch.svg) | `IconStretch` |
 | ![IconStrikethrough](dist/icons/IconStrikethrough.svg) | `IconStrikethrough` |
 | ![IconTableWithHeadings](dist/icons/IconTableWithHeadings.svg) | `IconTableWithHeadings` |
@@ -104,17 +91,14 @@ You will get the line: `<svg xmlns="http://www.w3.org/2000/svg" ...`
 | ![IconText](dist/icons/IconText.svg) | `IconText` |
 | ![IconTranslate](dist/icons/IconTranslate.svg) | `IconTranslate` |
 | ![IconTrash](dist/icons/IconTrash.svg) | `IconTrash` |
-| ![IconTwitter](dist/icons/IconTwitter.svg) | `IconTwitter` |
 | ![IconUnderline](dist/icons/IconUnderline.svg) | `IconUnderline` |
 | ![IconUndo](dist/icons/IconUndo.svg) | `IconUndo` |
 | ![IconUnlink](dist/icons/IconUnlink.svg) | `IconUnlink` |
-| ![IconUser](dist/icons/IconUser.svg) | `IconUser` |
-| ![IconUsersGroup](dist/icons/IconUsersGroup.svg) | `IconUsersGroup` |
 | ![IconWarning](dist/icons/IconWarning.svg) | `IconWarning` |
 <!-- END TABLE_OF_ICONS -->
 
 ## How to add an icon
 
-- Request an icon you need via [an Issue](https://github.com/codex-team/icons/issues/new)
+- Request an icon you need via [an Issue](https://github.com/showgoodsllc/icons/issues/new)
 - Or add your icon and open a PR
 

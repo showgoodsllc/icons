@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".vscode": true,
+    "bin": true,
+    "dist": true,
+    "node_modules": true,
+    ".editorconfig": true,
+    ".gitignore": true,
+    ".npmignore": true,
+    "LICENSE": true,
+    "package-lock.json": true,
+    "tsconfig.json": true,
+    "vite.config.js": true
+  }
+}
